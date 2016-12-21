@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrderYoyo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_to_class">ToClassActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_country_check">CountryCheck</string>
+    <string name="title_activity_uncomplete_order">UncompleteOrderActivity</string>
+    <string name="title_activity_restaurantand_customer">RestaurantandCustomerActivity</string>
+</resources>
